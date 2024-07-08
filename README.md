@@ -1,5 +1,10 @@
 # Dev-Agent-Survey
-A survey of LLM Agent for improving development productivity
+
+A survey of LLM Agents for improving development productivity. These agents aim to help
+
+- SWE (Software Engineer)
+- MLE (Machine Learning Engineer)
+- DS (Data Science)
 
 
 

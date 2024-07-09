@@ -5,6 +5,7 @@ A survey of LLM Agents for improving development productivity. These agents aim 
 - SWE (Software Engineer)
 - MLE (Machine Learning Engineer)
 - DS (Data Science)
+- DA (Data Analyst)
 
 
 
@@ -26,7 +27,27 @@ A survey of LLM Agents for improving development productivity. These agents aim 
 
 
 
-## Opensource Projects
+## Opensource Projects / Company Products
+
+| Name                                          | Type                                                                                 | Target      | Contributor         | Code / Product                                                                          |
+|-----------------------------------------------|--------------------------------------------------------------------------------------|-------------|---------------------|-----------------------------------------------------------------------------------------|
+| OpenDevin: Code Less, Make More               | write code, fix bugs, and ship features.                                             | SWE         | OpenDevin Community | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin)           |
+| Devon: An open-source pair programmer         | Codebase exploration Config writing Test writing Bug fixing Architecture exploration | SWE         | entropy-research    | ![GitHub Repo stars](https://img.shields.io/github/stars/entropy-research/Devon)        |
+| gpt-engineer                                  | write and execute software code                                                      | SWE         | gpt-engineer-org    | ![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer) |
+| Aider is AI pair programming in your terminal | start a new project or work with an existing git repo.                               | SWE         | paul-gauthier       | ![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider)           |
+| Cover-Agent                                   | automate and enhance the generation of tests (currently mostly unit tests)           | QA Engineer | CodiumAI            | ![GitHub Repo stars](https://img.shields.io/github/stars/Codium-ai/cover-agent)         |
+| PR-Agent                                      | Automated Pull Request Analysis, Feedback, Suggestions                               | SWE         | CodiumAI            | ![GitHub Repo stars](https://img.shields.io/github/stars/Codium-ai/pr-agent)            |
+| GPT PILOT                                     | VS Code extension that aims to provide the first real AI developer companion         | SWE         | Pythagora-io        | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot)        |
+| Claude Engineer                               | assist with a wide range of software development tasks                               | SWE         | Doriandarko         | ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer)   |
+| cognition AI                                  | An applied AI lab building end-to-end software agents.                               | SWE         | cognition.ai        | [Company](https://www.cognition.ai/)                                                    |
+| Tabby                                         | self-hosted AI coding assistant, Github Copilot alternative                          | SWE         | tabbyml             | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby)                 |
+| Sweep AI                                      | issue PR, unit test                                                                  | SWE         | Sweep AI            | [Company](https://sweep.dev/)                                                           |
+| Continue AI                                   | GitHub Copilot alternative, VS Code and JetBrains extension                          | SWE         | Continue            | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue)          |
+| Hex Magic AI                                  | text to sql/python data analysis code, copilot to understand and fix code issues     | MLE / DS    | Hex                 | [Company](https://hex.tech/product/magic-ai/)                                           |
+| datagpt                                       | chatbot to SQL, automatic data analysis                                              | DA          | datagpt             | [Company](https://datagpt.com/)                                                         |
+|                                               |                                                                                      |             |                     |                                                                                         |
+
+
 
 
 

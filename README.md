@@ -4,7 +4,7 @@ A survey of LLM Agents for improving development productivity. These agents aim 
 
 - SWE (Software Engineer)
 - MLE (Machine Learning Engineer)
-- DS (Data Science)
+- DS (Data Scientist)
 - DA (Data Analyst)
 
 

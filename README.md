@@ -1,6 +1,6 @@
-# Dev-Agent-Survey
+# Code-Agent-Survey
 
-A survey of LLM Agents for improving development productivity. These agents aim to help
+A survey of Code Agents for improving development productivity. These agents aim to help
 
 - SWE (Software Engineer)
 - MLE (Machine Learning Engineer)

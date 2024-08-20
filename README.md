@@ -7,7 +7,10 @@ A survey of Code Agents for improving development productivity. These agents aim
 - DS (Data Scientist)
 - DA (Data Analyst)
 
-
+# Table of Contents
+1. [Paper with Code](#paper-with-code)
+2. [Opensource Projects / Company Products](#opensource-projects--company-products)
+3. [Foundation Models](#foundation-model-code-specific)
 
 
 ## Paper with Code
@@ -72,6 +75,4 @@ A survey of Code Agents for improving development productivity. These agents aim
 
 
 
-## Citation
 
-Survey is coming
